@@ -1,6 +1,6 @@
-# GitBook CentOS Docker Container - usestrict
+# GitBook CentOS Docker Container
 
-Gitbook implementation on a CentOS based container. 
+Gitbook implementation on a CentOS based container. For Jacob.
 
 This image includes a `docs` directory in which you can place your 
 GitBook content.
