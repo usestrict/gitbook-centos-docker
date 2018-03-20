@@ -1,4 +1,4 @@
-# GitBook CentOS Docker Container
+# GitBook CentOS Docker Container - usestrict
 
 Gitbook implementation on a CentOS based container. 
 
